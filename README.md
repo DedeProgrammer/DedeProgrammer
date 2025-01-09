@@ -1,3 +1,5 @@
+Hi there 👋💻
+
 - 👋 Hi, I’m @DedeProgrammer
 - 👀 I program with #Html #Css #Javascript
 - 🌱 I’m currently learning #Javascript
